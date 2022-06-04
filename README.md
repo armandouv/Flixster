@@ -1,8 +1,8 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Flixster*
 
-**Name of your app** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+**Flixster** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **X** hours spent in total
+Time spent: **14** hours spent in total
 
 ## User Stories
 
@@ -22,10 +22,6 @@ The following **stretch** features are implemented:
 * [X] Apply the popular [View Binding annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-ViewBinding) to reduce boilerplate code.
 * [ ] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -36,7 +32,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This app was very useful to understand the basic building blocks of Android development. One challenge I faced was implementing the MovieDetails activity, and connecting it to the Main one. I consulted the Codepath resources and managed to find that I needed to use an Intent to "connect" activities.
 
 ## Open-source libraries used
 
@@ -45,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Armando Ugalde Velasco]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
