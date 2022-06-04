@@ -32,7 +32,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-This app was very useful to understand the basic building blocks of Android development. One challenge I faced was implementing the MovieDetails activity, and connecting it to the Main one. I consulted the Codepath resources and managed to find that I needed to use an Intent to "connect" activities.
+This app was very useful for understanding the basic building blocks of Android development. One challenge I faced was implementing the MovieDetails activity, and connecting it to the Main one. I consulted the Codepath resources and managed to find that I needed to use an Intent to "connect" activities.
 
 ## Open-source libraries used
 
